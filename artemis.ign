@@ -1,0 +1,19 @@
+{
+  "ignition": {
+    "version": "3.4.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "wheel",
+          "sudo"
+        ],
+        "name": "corey",
+        "sshAuthorizedKeys": [
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINpV2lxrsHERuh+rnVgUA6HSbmJrmJ0LEO+4aotjnoy8 corey.r.tobin@icloud.com"
+        ]
+      }
+    ]
+  }
+}
